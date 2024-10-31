@@ -403,12 +403,3 @@ for Neighbors in [0]: #0, 5,10,15,20
         +"\nAverage testing time:{}".format(np.mean(Test_Time_ALL))
         f.write(str_results)
         f.close()
-        
-
-    
-    
-    
-    
-    
-    
-    
